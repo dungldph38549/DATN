@@ -8,10 +8,6 @@ function App() {
 
   return (
     <div>
-          
-      <h1 className="text-5xl font-bold text-red-500 underline">
-        Nếu thấy chữ đỏ nền vàng → Tailwind đã hoạt động!
-      </h1>
       <Hearder />
         <Router>
           <Routes>
